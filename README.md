@@ -102,8 +102,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community for various packages and libraries used in this project.
 
 ---
-
-Feel free to modify this `README.md` to better fit your project or add any additional information as needed.
-```
-
-This `README.md` provides a comprehensive overview of your task management app, including features, installation instructions, usage guidelines, and development notes. Adjust the repository URL and any specific details according to your actual project setup.
